@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rishi730
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Android using KOtlin and Machine Learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning Android(Kotlin) and libraries in Python that are used for Machine Learning
+- 💞️ I’m looking to collaborate on projects which are based on Machine Learning and Android.
+- 📫 How to reach me 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---

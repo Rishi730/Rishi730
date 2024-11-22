@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and ERP Development using Frappe Framework**
 
-- 👯 I’m looking to collaborate on **projects which are based on Machine Learning and Android(Kotlin)**
+- 👯 I’m looking to collaborate on **projects which are based on Machine Learning and Deep Learning**
 
 - 📫 How to reach me **rishiofficial654@gmail.com**
 

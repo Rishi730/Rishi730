@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Machine Learning project**
 
-- 🌱 I’m currently learning **Machine Learning and Android Development through Kotlin**
+- 🌱 I’m currently learning **Machine Learning and ERP Development using Frappe Framework**
 
 - 👯 I’m looking to collaborate on **projects which are based on Machine Learning and Android(Kotlin)**
 

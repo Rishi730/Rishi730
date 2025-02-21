@@ -1,4 +1,4 @@
-![developer](https://github.com/user-attachments/assets/5625d6f9-1730-4463-a5a0-64c46e84f419)
+
 <h1 align="center">Hi 👋, I'm Rishiraj</h1>
 <h3 align="center">Python Developer and Data Science Enthusiast</h3>
 
